@@ -12,8 +12,9 @@ It countes up using a ripple counter and outputs the count using the outer secti
 
 ## How to test
 
-Explain how to use your project
+Set the clock to 10kHz and the output should count up.
+
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display
