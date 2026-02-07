@@ -8,8 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+It countes up using a ripple counter and outputs the count using the outer sections of the 7-Segment display.
 
 ## How to test
 
